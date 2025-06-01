@@ -199,18 +199,3 @@ plotly
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-* The original Telco Customer Churn dataset is publicly available via [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn).
-* Built with [Dash](https://dash.plotly.com/) and [Plotly](https://plotly.com/).
-
----
-
-```
-```
